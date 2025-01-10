@@ -109,7 +109,7 @@
     "@cloudflare/workers-types": "^4.20241224.0",
     "@types/google.maps": "^3.58.1",
     "@types/mdx": "^2.0.13",
-    "@types/node": "22.10.2",
+    "@types/node": "22.10.5",
     "@types/react": "18.3.12",
     "@types/sanitize-html": "^2.13.0",
     "@types/three": "^0.171.0",
