@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.5.3",
-    "@hookform/resolvers": "^3.9.1",
+    "@hookform/resolvers": "^3.10.0",
     "@icons-pack/react-simple-icons": "^10.2.0",
     "@mdx-js/loader": "^3.1.0",
     "@mdx-js/react": "^3.1.0",
